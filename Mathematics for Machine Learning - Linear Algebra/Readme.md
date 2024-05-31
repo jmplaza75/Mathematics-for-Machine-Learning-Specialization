@@ -10,6 +10,7 @@
 
   
 
+  
 ## Modules and Key Topics
 **Introduction to Linear Algebra**
 - Relevance of linear algebra to machine learning and data science
