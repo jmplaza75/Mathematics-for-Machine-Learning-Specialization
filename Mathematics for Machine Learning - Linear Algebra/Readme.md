@@ -4,8 +4,8 @@
 [Mathematics for Machine Learning: Linear Algebra](http://https://www.coursera.org/learn/linear-algebra-machine-learning "Mathematics for Machine Learning: Linear Algebra") by Imperial College London on Coursera is designed to provide foundational skills in linear algebra essential for machine learning and data science.
 
 ## Course Structure
-**Total Duration:** Approximately 19 hours\cr
-**Modules:** 5 main modules\cr
+**Total Duration:** Approximately 19 hours  
+**Modules:** 5 main modules  
 **Content:** Videos, quizzes, programming assignments, and ungraded labs\cr
 
 
