@@ -8,7 +8,7 @@
 **Modules:** 5 main modules  
 **Content:** Videos, quizzes, programming assignments, and ungraded labs  
 
-***
+___
 
 ## Modules and Key Topics
 **Introduction to Linear Algebra**
