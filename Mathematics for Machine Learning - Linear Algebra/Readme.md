@@ -6,8 +6,8 @@
 ## Course Structure
 **Total Duration:** Approximately 19 hours  
 **Modules:** 5 main modules  
-**Content:** Videos, quizzes, programming assignments, and ungraded labs\cr
----
+**Content:** Videos, quizzes, programming assignments, and ungraded labs  
+
 
 ## Modules and Key Topics
 **Introduction to Linear Algebra**
