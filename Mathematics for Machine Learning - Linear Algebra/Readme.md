@@ -8,9 +8,8 @@
 **Modules:** 5 main modules  
 **Content:** Videos, quizzes, programming assignments, and ungraded labs  
 
-  
+***
 
-  
 ## Modules and Key Topics
 **Introduction to Linear Algebra**
 - Relevance of linear algebra to machine learning and data science
