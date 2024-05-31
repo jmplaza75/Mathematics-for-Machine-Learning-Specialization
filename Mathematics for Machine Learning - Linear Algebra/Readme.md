@@ -1,5 +1,5 @@
 # <span style=color:blue> Mathematics for machine learning: linear algebra - course summary </span>
-## course overview
+## Course Overview
 
 [Mathematics for Machine Learning: Linear Algebra](http://https://www.coursera.org/learn/linear-algebra-machine-learning "Mathematics for Machine Learning: Linear Algebra") by Imperial College London on Coursera is designed to provide foundational skills in linear algebra essential for machine learning and data science.
 
