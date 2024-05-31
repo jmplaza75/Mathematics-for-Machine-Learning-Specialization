@@ -5,7 +5,9 @@
 
 ## Course Structure
 **Total Duration:** Approximately 19 hours
+
 **Modules:** 5 main modules
+
 **Content:** Videos, quizzes, programming assignments, and ungraded labs
 
 
