@@ -7,7 +7,7 @@ Since a vector is just a list of numbers, one of the vectors that we can define 
 
 $$\begin{bmatrix} f_{150.0} - f_{152.5} \cr f_{152.5} - f_{155.0} \cr 
 f_{155.0} - f_{157.5} \cr f_{157.5} - f_{160.0} \cr f_{160.0} - f_{162.5} 
-. \cr . \cr . \end{bmatrix}$$
+\cr . \cr . \cr . \end{bmatrix}$$
 
 $$f = \begin{bmatrix}
 \\ 
