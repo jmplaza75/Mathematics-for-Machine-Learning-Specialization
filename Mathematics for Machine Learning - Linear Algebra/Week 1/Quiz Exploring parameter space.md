@@ -52,7 +52,7 @@ We can put these two parameters in a vector $$P = \begin{bmatrix}
 
 Pick the parameter vector  p which best describes the distribution pictured.
 
-[ ] $$ P = \begin{bmatrix}
+[ ] $$P = \begin{bmatrix}
 \155 \\ \24 
 \end{bmatrix}$$
 
