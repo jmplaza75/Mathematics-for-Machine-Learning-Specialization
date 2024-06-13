@@ -3,15 +3,19 @@ In this quiz, we shall see how quantities in machine learning can be represented
 The problem we shall focus on in this exercise is the distribution of heights in a population.
 
 Since a vector is just a list of numbers, one of the vectors that we can define relates to data that we measure. That is, in this case, we can record the frequency of people with heights between 150cm and 152.5cm, between 152.5cm and 155cm, and so on. We can define this as the vector 
-**f** with components,  
+**f** with components,    
+
+  
 
 $$\begin{bmatrix} f_{150.0} - f_{152.5} \cr f_{152.5} - f_{155.0} \cr 
 f_{155.0} - f_{157.5} \cr f_{157.5} - f_{160.0} \cr f_{160.0} - f_{162.5} 
-\cr . \cr . \cr . \end{bmatrix}$$
+\cr . \cr . \cr . \end{bmatrix}$$  
+
+  
 
 This vector can also be represented by the histogram,
 
-![missing](images/image_histogram.png)  
+![missing](Images/image_histogram.png)  
 
 
 Of the following statements, select all that are true.
@@ -29,7 +33,7 @@ One of the tasks of machine learning is to fit a model to data in order to predi
 
 For the heights of a population, a model we may use to predict frequencies is the Normal (or Gaussian) distribution. This is a model for a bell-shaped curve, which looks like this,  
   
-![missing](images/fit_model.png)  
+![missing](mages/fit_model.png)  
 
 iQuestion 2
 One of the tasks of machine learning is to fit a model to data in order to predict the underlying distribution.
