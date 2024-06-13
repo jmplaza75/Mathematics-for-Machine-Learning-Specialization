@@ -28,12 +28,12 @@ Of the following statements, select all that are true.
 - [x] There are at least 15 elements in the frequency vector, **f**.
 - [x] If another sample was taken under the same conditions, the frequencies would be broadly similar.  
   
-  
+---  
 One of the tasks of machine learning is to fit a model to data in order to predict the underlying distribution.
 
 For the heights of a population, a model we may use to predict frequencies is the Normal (or Gaussian) distribution. This is a model for a bell-shaped curve, which looks like this,  
   
-![missing](mages/fit_model.png)  
+![missing](Images/fit_model.png)  
 
 iQuestion 2
 One of the tasks of machine learning is to fit a model to data in order to predict the underlying distribution.
