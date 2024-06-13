@@ -5,7 +5,8 @@ The problem we shall focus on in this exercise is the distribution of heights in
 Since a vector is just a list of numbers, one of the vectors that we can define relates to data that we measure. That is, in this case, we can record the frequency of people with heights between 150cm and 152.5cm, between 152.5cm and 155cm, and so on. We can define this as the vector 
 **f** with components,  
 
-$$\begin{bmatrix} 2 & 1 & 5 & 20 \cr 1 & 2 & 1 & 10 \cr 2 & 1 & 3 & 15 \end{bmatrix}$$
+$$\begin{bmatrix} f_{150.0} - f_{152.5} \cr f_{152.5} - f_{155.0} \cr 
+f_{155.0} - f_{157.5} \cr f_{157.5} - f_{160.0} \cr f_{160.0} - f_{162.5}  \end{bmatrix}$$
 
 $$f = \begin{bmatrix}
 \\ 
