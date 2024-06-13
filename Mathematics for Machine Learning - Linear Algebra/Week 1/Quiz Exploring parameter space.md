@@ -46,7 +46,11 @@ $$g(x) = \frac{1}{\sigma \sqrt{2\pi }} exp (-\frac{(x-\mu )^{2}}{2\sigma ^{2}})$
   
 the exact form of which is unimportant, except that it is dependant on two parameters, the mean, 𝜇 where the curve is centred, and the standard deviation, 𝜎,   which is the characteristic width of the bell curve.  
 
-We can put these two parameters in a vector $$P = \begin{bmatrix}
+We can put these two parameters in a vector 
+
+P = $$\begin{bmatrix} \mu \cr \sigma \end{bmatrix}$$
+
+$$P = \begin{bmatrix}
 \mu \\ \sigma 
 \end{bmatrix}$$
 
