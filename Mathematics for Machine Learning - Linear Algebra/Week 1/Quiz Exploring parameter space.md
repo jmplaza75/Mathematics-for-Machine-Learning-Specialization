@@ -48,7 +48,7 @@ the exact form of which is unimportant, except that it is dependant on two param
 
 We can put these two parameters in a vector 
 
-P = $$\begin{bmatrix} \mu \cr \cr \sigma \end{bmatrix}$$
+P = $$\begin{bmatrix} \mu\cr \sigma \end{bmatrix}$$
 
 $$P = \begin{bmatrix}
 \mu \\ \sigma 
