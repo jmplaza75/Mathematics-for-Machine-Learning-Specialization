@@ -53,5 +53,5 @@ $$P = \begin{bmatrix} \mu \cr \sigma \end{bmatrix}$$
 Pick the parameter vector  p which best describes the distribution pictured.
 
 - [ ] (a)
-$$P = \begin{bmatrix} 155 \cr 24 \end{bmatrix}$$
+      $$P = \begin{bmatrix} 155 \cr 24 \end{bmatrix}$$
 
