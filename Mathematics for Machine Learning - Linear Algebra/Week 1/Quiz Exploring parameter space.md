@@ -59,4 +59,13 @@ $$P = \begin{bmatrix} 155 \cr 24 \end{bmatrix}$$
 
 - [ ] (b)
 
-$$P = \begin{bmatrix} 167 \cr 12 \end{bmatrix}$$
+$$P = \begin{bmatrix} 167 \cr 12 \end{bmatrix}$$  
+- [x] (c)
+
+$$P = \begin{bmatrix} 155 \cr 12 \end{bmatrix}$$  
+
+- [ ] (d)
+
+$$P = \begin{bmatrix} 167 \cr 24 \end{bmatrix}$$
+
+
