@@ -1,4 +1,5 @@
-**Question 1**
+**Question 1**  
+
 In this quiz, we shall see how quantities in machine learning can be represented as vectors. These could be in the form of data itself, or model parameters, and so on. We will begin to explore why framing our problem in this form might be a useful thing to do.
 
 The problem we shall focus on in this exercise is the distribution of heights in a population.
@@ -36,7 +37,8 @@ For the heights of a population, a model we may use to predict frequencies is th
   
 ![missing](Images/fit_model.png)  
 
-**Question 2**
+**Question 2**  
+
 One of the tasks of machine learning is to fit a model to data in order to predict the underlying distribution.
 
 For the heights of a population, a model we may use to predict frequencies is the Normal (or Gaussian) distribution. This is a model for a bell-shaped curve, which looks like this,
