@@ -82,13 +82,13 @@ $$P = \begin{bmatrix} 3 \cr 3 \end{bmatrix}$$
 ![missing](Images/3_1_Image.png)
 
 - [x] (b)
-![missing](Images/3_2_Image.png)
+![missing](Images/3_2_image.png)
 
 - [ ] (c)
-![missing](Images/3_3_Image.png)
+![missing](Images/3_3_image.png)
 
 - [ ] (d)
-![missing](Images/3_4_Image.png)
+![missing](Images/3_4_image.png)
 
 ---
 
