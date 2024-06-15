@@ -70,4 +70,30 @@ $$P = \begin{bmatrix} 155 \cr 12 \end{bmatrix}$$
 
 $$P = \begin{bmatrix} 167 \cr 24 \end{bmatrix}$$
 
+---
+
+**Question 3**   
+
+Pick the Normal distribution that corresponds the closest to the parameter vector:   
+
+$$P = \begin{bmatrix} 3 \cr 3 \end{bmatrix}$$  
+
+- [ ] (a)
+![missing](Images/3_1_Image.png)
+
+- [x] (b)
+![missing](Images/3_2_Image.png)
+
+- [ ] (c)
+![missing](Images/3_3_Image.png)
+
+- [ ] (d)
+![missing](Images/3_4_Image.png)
+
+---
+
+
+
+
+
 
